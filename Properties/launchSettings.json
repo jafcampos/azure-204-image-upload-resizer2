@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "image_upload_resizer2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7069",
+      "launchBrowser": false
+    }
+  }
+}
